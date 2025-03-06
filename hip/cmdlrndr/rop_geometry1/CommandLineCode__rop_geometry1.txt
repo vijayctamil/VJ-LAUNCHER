@@ -1,0 +1,1 @@
+hbatch -v -c ./cmdlrndr/rop_geometry1/cmd/test_CmdlineRender__rop_geometry1.cmd test.hip
