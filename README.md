@@ -15,6 +15,14 @@ A fully-featured desktop tray app built with **PySide6** for managing a local VF
 
 ---
 
+---
+
+## 🎬 Watch Demo
+
+Check out the full demo on [Youtube](https://youtu.be/QfsPPa97fag).
+
+---
+
 ## 🧩 Included Tools
 
 ### 📁 Folder Generator
